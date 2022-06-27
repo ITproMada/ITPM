@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/wordpress9/author/didier/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Mon, 27 Jun 2022 13:11:55 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Jun 2022 13:54:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -94,6 +94,77 @@
 					
 					<wfw:commentRss>./../../../2022/06/27/teaching-academics/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Course</title>
+		<link>./../../../2022/06/26/course/index.html</link>
+		
+		<dc:creator><![CDATA[didier]]></dc:creator>
+		<pubDate>Sun, 26 Jun 2022 13:51:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=22</guid>
+
+					<description><![CDATA[WEB DEVELOPMENT SOFTWARE DEVELOPMENT]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22" class="elementor elementor-22">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-bf781c9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bf781c9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3bac5bb" data-id="3bac5bb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ef22cf0 elementor-button-info elementor-widget elementor-widget-button" data-id="ef22cf0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.w3schools.com/whatis/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-pulse-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">WEB DEVELOPMENT</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e33ac0c" data-id="e33ac0c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0d12090 elementor-widget elementor-widget-button" data-id="0d12090" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.ibm.com/topics/software-development#:~:text=Software%20development%20refers%20to%20a,hardware%20and%20makes%20computers%20programmable." class="elementor-button-link elementor-button elementor-size-sm elementor-animation-wobble-to-top-right" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">SOFTWARE DEVELOPMENT</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a7931ca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a7931ca" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4a7a57c" data-id="4a7a57c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f30f389 elementor-widget elementor-widget-image" data-id="f30f389" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="310" height="163" src="./../../../wp-content/uploads/2022/06/telechargement.jpg" class="elementor-animation-wobble-skew attachment-full size-full" alt="" loading="lazy" srcset="./../../../wp-content/uploads/2022/06/telechargement.jpg 310w, ./../../../wp-content/uploads/2022/06/telechargement-300x158.jpg 300w" sizes="(max-width: 310px) 100vw, 310px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7e06172" data-id="7e06172" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-26243ad elementor-widget elementor-widget-image" data-id="26243ad" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="627" height="627" src="./../../../wp-content/uploads/2022/06/SDLC_BWC.png" class="elementor-animation-wobble-bottom attachment-full size-full" alt="" loading="lazy" srcset="./../../../wp-content/uploads/2022/06/SDLC_BWC.png 627w, ./../../../wp-content/uploads/2022/06/SDLC_BWC-300x300.png 300w, ./../../../wp-content/uploads/2022/06/SDLC_BWC-150x150.png 150w" sizes="(max-width: 627px) 100vw, 627px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
 		
 		
 			</item>
